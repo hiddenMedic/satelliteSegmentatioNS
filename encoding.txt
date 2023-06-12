@@ -1,0 +1,15 @@
+[(5, 73, 7), 
+ (6, 154, 243),
+ (128, 96, 0), 
+ (149, 208, 252), 
+ (166, 166, 166), 
+ (220, 20, 60), 
+ (255, 165, 0), 
+ (255, 255, 0), 
+ (255, 255, 255)]
+ # (0, 255, 255) - 9
+ # (255, 0, 255) - 10
+ 
+0 indexed, index u listi = broj klase
+# - dodati, nema ih na slici
+indeksiranje nije povezano sa legenom
